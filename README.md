@@ -1,6 +1,6 @@
 <h1 align="center">E-CART 🛒🛒 </h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+![Demo App](/frontend/public/E-CART.png)
 
 About:
 
